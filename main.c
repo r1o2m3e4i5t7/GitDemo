@@ -19,5 +19,8 @@ int main()
     foo();
     bar();
 
+    // Hahaha
+    printf("Hahaha\n");
+
     return 0;
 }
