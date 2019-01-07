@@ -21,6 +21,7 @@ int main()
 
     // Hahaha
     printf("Hahaha\n");
+    printf("Yeah\n");
 
     return 0;
 }
